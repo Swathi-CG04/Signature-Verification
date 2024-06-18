@@ -1,0 +1,1 @@
+To develop a Signature verification system using image processing in MATLAB, to distinguish between the images of two signatures. The project aims to analyze signature images, extract relevant features, and implement a comparison algorithm to determine the authenticity of signatures with high precision and efficiency.
